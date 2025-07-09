@@ -1,6 +1,4 @@
 # Static-Analysis-for-Ransomware-Detection
-  <h1>🛡️ Static Analysis for Ransomware Detection</h1>
-
   <p>This project aims to detect ransomware using <strong>static analysis</strong> and <strong>machine learning</strong>. It analyzes executable (.exe) files without running them, extracts useful features, and predicts whether they are <em>benign</em> or <em>malicious</em>.</p>
 
   <h2>🔧 Features</h2>
